@@ -1,2 +1,6 @@
-# Page 1
+---
+layout: landing
+---
+
+# Introduction
 
