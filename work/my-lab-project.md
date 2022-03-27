@@ -1,2 +1,2 @@
-# 🥼 My Lab Project
+# My Lab Project
 

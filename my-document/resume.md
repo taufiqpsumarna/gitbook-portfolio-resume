@@ -1,4 +1,4 @@
-# 📑 Resume
+# Resume
 
 ## Experience
 
@@ -12,6 +12,7 @@
 * Maintenance dan monitoring jaringan VPN dan server public on premise.
 * Manajemen server bare metal dan virtual dalam perusahaan.
 * Memastikan keamanan informasi perusahaan serta jaringan komputer yang digunakan.
+* Manajemen Hosting , Domain dan Website perusahaan.
 * Melakukan dokumentasi topologi infrastruktur, hak akses dan konfigurasi perangkat IT yang digunakan.&#x20;
 * Melakukan monitoring infrastruktur IT perusahaan seperti jaringan komputer, CCTV dan server.
 * Melakukan manajemen dan optimalisasi bandwidth internet yang digunakan (QoS).
@@ -23,9 +24,8 @@
 
 #### Mei 2019 - Agustus 2019
 
-* Membuat desain topologi jaringan komputer.
 * Membuat dokumentasi jaringan komputer.
-* Melakukan konfigurasi perangkat jaringan komputer seperti Router, Firewall, Switch, Dan Access Point.
+* Melakukan instalasi dan konfigurasi perangkat jaringan komputer.
 * Melakukan konfigurasi server bare metal ataupun fisik.
 * Melakukan optimalisasi performa, keamanan dan troubleshooting jaringan komputer.
 
@@ -40,24 +40,46 @@
 
 ## Education
 
-### SMKN 2 Baleendah, Kab. Bandung —Teknik Komputer Jaringan
+## Teknik Komputer Jaringan - SMKN 2 Baleendah, Kab. Bandung
 
-#### BULAN 20XX - BULAN 20XX
+#### September 2020 - 2024
 
-Masukkan teks Anda di sini Masukkan teks Anda di sini Masukkan teks Anda di sini.
+Program Studi Informatika bertujuan untuk menghasilkan sarjana di bidang informatika yang mampu merencanakan, merancang dan mengimplementasikan suatu sistem terpadu untuk menyelesaikan persoalan teknologi informasi di berbagai bidang seperti pendidikan, perbankan, telekomunikasi, manufaktur, atau industri lainnya.
+
+### Teknik Komputer Jaringan - SMKN 2 Baleendah, Kab. Bandung
+
+#### Juli 2016 - Mei 2019
+
+Teknik Komputer dan Jaringan merupakan ilmu berbasis Teknologi Informasi dan Komunikasi terkait kemampuan algoritma, dan pemrograman komputer, perakitan komputer, perakitan jaringan komputer, dan pengoperasian perangkat lunak, dan internet.
 
 ## Skills
 
-### Kategori 1
+### Computer Network
 
-### Kategori 2
+### Software Development
 
-### Kategori 3
+### Server Administration
+
+
 
 ## Certification
 
 ### Pemberi Sertifikasi / Judul sertifikasi
 
-Januari 2022 - Maret 2022
+#### Januari 2022 - Maret 2022
+
+Deskripsi
+
+### Pemberi Sertifikasi / Judul sertifikasi
+
+#### Januari 2022 - Maret 2022
+
+Deskripsi
+
+### Pemberi Sertifikasi / Judul sertifikasi
+
+#### Januari 2022 - Maret 2022
+
+Deskripsi
 
 ## Training
