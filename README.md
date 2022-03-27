@@ -32,10 +32,6 @@ Ada pertanyaan atau ingin bekerja sama ? Silahkan kontak saya di [**linkedin**](
 [Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
 ## Kutipan Favorit
 
 > _"Barang siapa belum pernah merasakan pahitnya mencari ilmu walau sesaat, ia akan menelan hinanya kebodohan sepanjang hidupnya."_\
