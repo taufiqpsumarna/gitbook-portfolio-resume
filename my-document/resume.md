@@ -1,7 +1,3 @@
----
-layout: editorial
----
-
 # 📑 Resume
 
 ## Experience
