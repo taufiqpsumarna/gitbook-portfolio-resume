@@ -1,2 +1,6 @@
-# Project
+---
+layout: editorial
+---
+
+# 👷♂ Project
 

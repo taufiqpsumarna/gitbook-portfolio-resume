@@ -7,14 +7,14 @@
 * [👷♂ Project](work/project.md)
 * [🥼 My Lab Project](work/my-lab-project.md)
 
-## 📓 Resume
+## 📂 My Document
 
-* [📝 Summary](resume/summary.md)
+* [📑 Resume](my-document/resume.md)
 
 ## 📖 Career Story
 
-* [1️⃣ First Career As IT Support](career-story/1-first-career-as-it-support.md)
-* [2️⃣ Journey To DevOps Engineer](career-story/2-journey-to-devops-engineer.md)
+* [My First Career As IT Support](career-story/my-first-career-as-it-support.md)
+* [Journey To DevOps Engineer](career-story/journey-to-devops-engineer.md)
 
 ## ⬇ Download
 
