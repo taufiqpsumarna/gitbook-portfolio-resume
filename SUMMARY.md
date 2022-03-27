@@ -9,12 +9,7 @@
 
 ## 📄 Resume
 
-* [Experience](resume/experience.md)
-* [Education](resume/education.md)
-* [Organization](resume/organization.md)
-* [Skills](resume/skills.md)
-* [Certification](resume/certification.md)
-* [Training](resume/training.md)
+* [Summary](resume/summary.md)
 
 ## ⬇ Download <a href="#cv-dan-resume" id="cv-dan-resume"></a>
 
