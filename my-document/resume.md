@@ -12,6 +12,7 @@
 * Maintenance dan monitoring jaringan VPN dan server public on premise.
 * Manajemen server bare metal dan virtual dalam perusahaan.
 * Memastikan keamanan informasi perusahaan serta jaringan komputer yang digunakan.
+* Manajemen Admin Google Workspace.
 * Manajemen Hosting , Domain dan Website perusahaan.
 * Melakukan dokumentasi topologi infrastruktur, hak akses dan konfigurasi perangkat IT yang digunakan.&#x20;
 * Melakukan monitoring infrastruktur IT perusahaan seperti jaringan komputer, CCTV dan server.
@@ -56,9 +57,19 @@ Teknik Komputer dan Jaringan merupakan ilmu berbasis Teknologi Informasi dan Kom
 
 ### Computer Network
 
-### Software Development
+### Communication & Collaboration Tools
+
+### Network Devices
+
+### Network Monitoring
+
+### Development Kit
 
 ### Server Administration
+
+### Operating System
+
+
 
 
 

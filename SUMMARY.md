@@ -4,8 +4,8 @@
 
 ## ⚙ Work
 
-* [Project](work/project.md)
-* [My Lab Project](work/my-lab-project.md)
+* [Professional Project](work/professional-project.md)
+* [Geek Project](work/geek-project.md)
 
 ## 📂 My Document
 
