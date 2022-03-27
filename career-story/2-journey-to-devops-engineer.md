@@ -1,3 +1,3 @@
-# Journey To DevOps Engineer
+# 2️⃣ Journey To DevOps Engineer
 
-![Bissmillah, on my way](../.gitbook/assets/OmwImGIF.gif)
+![Bismillah, on my way](../.gitbook/assets/OmwImGIF.gif)
