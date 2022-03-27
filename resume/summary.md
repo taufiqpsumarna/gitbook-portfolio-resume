@@ -2,7 +2,7 @@
 
 Ini resume saya
 
-## Experience <a href="#experience" id="experience"></a>
+## Experience
 
 ### Perusahaan, Lokasi — Posisi Pekerjaan
 
