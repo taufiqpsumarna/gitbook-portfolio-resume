@@ -41,7 +41,7 @@
 
 ## Education
 
-## Teknik Komputer Jaringan - SMKN 2 Baleendah, Kab. Bandung
+### Teknik Informatika - STMIK AMIK BANDUNG, Bandung
 
 #### September 2020 - 2024
 
