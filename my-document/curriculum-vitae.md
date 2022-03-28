@@ -1,4 +1,4 @@
-# Resume
+# Curriculum Vitae
 
 ## Experience
 
@@ -53,6 +53,10 @@ Program Studi Informatika bertujuan untuk menghasilkan sarjana di bidang informa
 
 Teknik Komputer dan Jaringan merupakan ilmu berbasis Teknologi Informasi dan Komunikasi terkait kemampuan algoritma, dan pemrograman komputer, perakitan komputer, perakitan jaringan komputer, dan pengoperasian perangkat lunak, dan internet.
 
+
+
+## Training
+
 ## Skills
 
 ### Computer Network
@@ -92,5 +96,3 @@ Deskripsi
 #### Januari 2022 - Maret 2022
 
 Deskripsi
-
-## Training

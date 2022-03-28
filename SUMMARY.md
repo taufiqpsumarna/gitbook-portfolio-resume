@@ -9,7 +9,7 @@
 
 ## 📂 My Document
 
-* [Resume](my-document/resume.md)
+* [Curriculum Vitae](my-document/curriculum-vitae.md)
 
 ## 📖 Career Story
 
