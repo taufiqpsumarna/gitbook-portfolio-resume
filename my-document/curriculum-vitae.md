@@ -6,6 +6,8 @@
 
 #### September 2019 - Sekarang
 
+Job Description:
+
 * Membantu user dalam memanfaatkan perangkat serta teknologi IT dalam perusahaan.&#x20;
 * Instalasi perangkat, teknologi dan jaringan komputer perusahaan.
 * Memastikan infrastruktur jaringan komputer perusahaan berjalan dengan lancar dan optimal.
@@ -25,6 +27,8 @@
 
 #### Mei 2019 - Agustus 2019
 
+Job Description:
+
 * Membuat dokumentasi jaringan komputer.
 * Melakukan instalasi dan konfigurasi perangkat jaringan komputer.
 * Melakukan konfigurasi server bare metal ataupun fisik.
@@ -33,6 +37,8 @@
 ### Junior Network Engineer - CV. Lintas Opsi Gradasi Informatika, Bandung
 
 #### Januari 2017 - Maret 2017
+
+Job Description:
 
 * Melakukan dokumentasi jaringan komputer.
 * Troubleshooting perangkat yang terhubung di jaringan komputer.
