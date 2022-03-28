@@ -20,6 +20,16 @@ Saat ini saya berkarir sebagai IT Support & Network Engineer di perusahaan kontr
 
 Ada pertanyaan atau ingin bekerja sama ? Silahkan kontak saya di [**linkedin**](https://www.linkedin.com/in/taufiqpsumarna/)**😁**
 
+## **Menu Navigasi**
+
+{% content-ref url="my-document/curriculum-vitae.md" %}
+[curriculum-vitae.md](my-document/curriculum-vitae.md)
+{% endcontent-ref %}
+
+{% content-ref url="work/portofolio.md" %}
+[portofolio.md](work/portofolio.md)
+{% endcontent-ref %}
+
 ## Kutipan Favorit
 
 > _"Barang siapa belum pernah merasakan pahitnya mencari ilmu walau sesaat, ia akan menelan hinanya kebodohan sepanjang hidupnya."_\
