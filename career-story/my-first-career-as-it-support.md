@@ -1,6 +1,2 @@
----
-layout: editorial
----
-
-# My First Career As IT Support
+# 1⃣ My First Career As IT Support
 
