@@ -25,6 +25,20 @@ Job Description:
 
 **Achievement:**
 
+* Migrasi aplikasi HR system kedalam virtual server proxmox ve.
+* Melakukan perbaikan dan peningkatan fitur sistem recruitment pada website perusahaan.
+* Melakukan migrasi sistem zimbra mail server ke Google workspace untuk meningkatkan kolaborasi dan reliability pada sistem email.
+* Implementasi perangkat fortigate firewall untuk keamanan serta monitoring jaringan perusahaan.
+* Implementasi jaringan VPN L2TP/IPsec untuk kebutuhan Work From Home.
+* Implementasi sistem zabbix untuk monitoring jaringan lokal perusahaan.
+* Implementasi sistem Hetrixtools monitoring uptime jaringan internet dan website SSL monitoring.
+* Instalasi server Proxmox VE untuk kebutuhan testing dan virtual server.
+* Instalasi dan migrasi konfigurasi perangkat router mikrotik X86 ke routerboard.
+* Implementasi QoS menghasilkan performa jaringan internet kantor lebih stabil dan optimal untuk kegiatan operasional perusahaan seperti browsing, streaming dan video conference.
+* Perbaikan misskonfigurasi dan banyaknya spam yang masuk menuju zimbra email server.
+* Desan & instalasi ruangan khusus video conference menggunakan logitech meetup video conference camera.
+* Berhasil melengkapi dokumentasi teknis konfigurasi serta infrastruktur IT perusahaan.
+
 ****
 
 ### Network Engineer - Freelancer, Bandung
