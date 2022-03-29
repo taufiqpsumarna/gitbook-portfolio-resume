@@ -14,12 +14,13 @@ Job Description:
 * Maintenance dan monitoring jaringan VPN dan server public on premise.
 * Manajemen server bare metal dan virtual dalam perusahaan.
 * Memastikan keamanan informasi perusahaan serta jaringan komputer yang digunakan.
-* Manajemen Admin Google Workspace.
+* Manajemen sistem Admin Google Workspace.
 * Manajemen Hosting , Domain dan Website perusahaan.
 * Melakukan dokumentasi topologi infrastruktur, hak akses dan konfigurasi perangkat IT yang digunakan.&#x20;
 * Melakukan monitoring infrastruktur IT perusahaan seperti jaringan komputer, CCTV dan server.
 * Melakukan manajemen dan optimalisasi bandwidth internet yang digunakan (QoS).
 * Melakukan optimalisasi, riset dan pengembangan perangkat user, software dan infrastruktur IT.&#x20;
+* Membantu desain, estimasi, pengadaan dan instalasi infrastruktur direksi kit project site.
 * Manajemen Aset IT perusahaan serta pengadaan perangkat IT yang dibutuhkan.
 * Melakukan maintenance dan perbaikan Aset IT dalam perusahaan.
 
@@ -38,8 +39,6 @@ Job Description:
 * Perbaikan misskonfigurasi dan banyaknya spam yang masuk menuju zimbra email server.
 * Desan & instalasi ruangan khusus video conference menggunakan logitech meetup video conference camera.
 * Berhasil melengkapi dokumentasi teknis konfigurasi serta infrastruktur IT perusahaan.
-
-****
 
 ### Network Engineer - Freelancer, Bandung
 
