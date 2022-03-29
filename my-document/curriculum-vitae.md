@@ -1,15 +1,15 @@
 # 📄 Curriculum Vitae
 
-## <mark style="color:blue;">Experience</mark>
+## Experience
 
 ### IT Support & Network Engineer - PT. Unicorn Tosan Perkasa, Bandung
 
 #### September 2019 - Sekarang
 
-Job Description:
+**Job Description:**
 
 * Membantu user dalam memanfaatkan perangkat serta teknologi IT dalam perusahaan.&#x20;
-* Instalasi perangkat, teknologi dan jaringan komputer perusahaan.
+* Instalasi perangkat, software dan perangkat jaringan komputer perusahaan.
 * Memastikan infrastruktur jaringan komputer perusahaan berjalan dengan lancar dan optimal.
 * Maintenance dan monitoring jaringan VPN dan server public on premise.
 * Manajemen server bare metal dan virtual dalam perusahaan.
@@ -53,6 +53,8 @@ Job Description:
 
 **Achievement:**
 
+* Melakukan instalasi jaringan CCTV dan jaringan LAN untuk SOHO.
+
 ### Junior Network Engineer - CV. Lintas Opsi Gradasi Informatika, Bandung
 
 #### Januari 2018 - Maret 2018
@@ -66,9 +68,13 @@ Job Description:
 
 **Achievement:**
 
+* Membuat desain topologi untuk SOHO.
+* Troubleshooting jaringan LAN.
+* Berhasil dalam melakukan konfigurasi perangkat pada jaringan LAN.
+
 ****
 
-## <mark style="color:blue;">Education</mark>
+## Education
 
 ### Teknik Informatika - STMIK AMIK BANDUNG, Bandung
 
@@ -82,7 +88,7 @@ Program Studi Informatika bertujuan untuk menghasilkan sarjana di bidang informa
 
 Teknik Komputer dan Jaringan merupakan ilmu berbasis Teknologi Informasi dan Komunikasi terkait kemampuan algoritma, dan pemrograman komputer, perakitan komputer, perakitan jaringan komputer, dan pengoperasian perangkat lunak, dan internet.
 
-## <mark style="color:blue;">Organization</mark>
+## Organization
 
 ### Ketua Divisi IT Security - Computer Security Research Group - STMIK AMIK BANDUNG
 
@@ -104,13 +110,13 @@ Remaja Islam masjid adalah perkumpulan pemuda yang melakukan aktivitas sosial da
 
 
 
-## <mark style="color:blue;">Bootcamp</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**dan**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">Training</mark>
+## Bootcamp **dan** Training
 
 ### Sekolah Devops Batch #14 - Cilsy Fiolution, Bandung
 
 #### Januari 2022 - Mei 2022
 
-Sekolah Devops adalah sebuah Bootcamp online bertujuan untuk mendidik siswanya untuk memulai karir sebagai Devops Engineer dalam waktu 16+ Minggu. Sekolah Devops merupakan bagian dari Sekolah Digital Cilsy.
+Sekolah Devops adalah sebuah Bootcamp online bertujuan untuk mendidik siswanya untuk memulai karir sebagai Devops Engineer dalam waktu 16+ Minggu dengan materi yang menyesuaikan dengan kebutuhan industri saat ini. Sekolah Devops merupakan bagian dari Sekolah Digital Cilsy.
 
 ### Digipreneur & Softskill Academy  - Digital Talent Scholarship Kominfo, Bandung
 
