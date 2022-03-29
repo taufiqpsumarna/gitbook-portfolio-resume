@@ -1,6 +1,6 @@
 # 📄 Curriculum Vitae
 
-## Experience
+## <mark style="color:blue;">Experience</mark>
 
 ### IT Support & Network Engineer - PT. Unicorn Tosan Perkasa, Bandung
 
@@ -23,29 +23,39 @@ Job Description:
 * Manajemen Aset IT perusahaan serta pengadaan perangkat IT yang dibutuhkan.
 * Melakukan maintenance dan perbaikan Aset IT dalam perusahaan.
 
+**Achievement:**
+
+****
+
 ### Network Engineer - Freelancer, Bandung
 
 #### Mei 2019 - Agustus 2019
 
-Job Description:
+**Job Description:**
 
 * Membuat dokumentasi jaringan komputer.
 * Melakukan instalasi dan konfigurasi perangkat jaringan komputer.
 * Melakukan konfigurasi server bare metal ataupun fisik.
 * Melakukan optimalisasi performa, keamanan dan troubleshooting jaringan komputer.
 
+**Achievement:**
+
 ### Junior Network Engineer - CV. Lintas Opsi Gradasi Informatika, Bandung
 
-#### Januari 2017 - Maret 2017
+#### Januari 2018 - Maret 2018
 
-Job Description:
+**Job Description:**
 
 * Melakukan dokumentasi jaringan komputer.
 * Troubleshooting perangkat yang terhubung di jaringan komputer.
 * Melakukan konfigurasi perangkat jaringan komputer.
 * Memastikan jaringan komputer berjalan dengan lancar.
 
-## Education
+**Achievement:**
+
+****
+
+## <mark style="color:blue;">Education</mark>
 
 ### Teknik Informatika - STMIK AMIK BANDUNG, Bandung
 
@@ -53,15 +63,35 @@ Job Description:
 
 Program Studi Informatika bertujuan untuk menghasilkan sarjana di bidang informatika yang mampu merencanakan, merancang dan mengimplementasikan suatu sistem terpadu untuk menyelesaikan persoalan teknologi informasi di berbagai bidang seperti pendidikan, perbankan, telekomunikasi, manufaktur, atau industri lainnya.
 
-### Teknik Komputer Jaringan - SMKN 2 Baleendah, Kab. Bandung
+### Teknik Komputer Jaringan - SMKN 2 BALEENDAH, Kab. Bandung
 
 #### Juli 2016 - Mei 2019
 
 Teknik Komputer dan Jaringan merupakan ilmu berbasis Teknologi Informasi dan Komunikasi terkait kemampuan algoritma, dan pemrograman komputer, perakitan komputer, perakitan jaringan komputer, dan pengoperasian perangkat lunak, dan internet.
 
+## <mark style="color:blue;">Organization</mark>
+
+### Ketua Divisi IT Security - Computer Security Research Group - STMIK AMIK BANDUNG
+
+#### Januari 2022- Sekarang
+
+Memastikan kegiatan divisi IT Security - CSRG berjalan dengan lancar, memimpin kegiatan anggota, menyiapkan materi untuk dipelajari dan merencanakan jadwal kegiatan anggota divisi IT Security.
+
+### Ketua Divisi TIK - Organisasi Intra Sekolah - SMKN 2 BALEENDAH
+
+#### Januari 2016 - Januari 2019
+
+Memastikan kegiatan organisasi yang berkaitan dengan penggunaan teknologi berjalan dengan lancar, menyusun jadwal pos blog dan mading digital, dan membantu terkait teknis penggunaan perangkat digital dalam kegiatan organisasi.
+
+### Anggota - Remaja Islam Masjid - SMKN 2 BALEENDAH
+
+#### Januari 2016 - Januari 2019
+
+Remaja Islam masjid adalah perkumpulan pemuda yang melakukan aktivitas sosial dan ibadah khususnya di area masjid sekolah, pembagian tugas dan wewenang dalam remaja masjid termasuk dalam golongan organisasi yang menggunakan konsep Islam dengan menerapkan asas musyawarah, mufakat, dan amal jama’i (gotong royong) dalam aktivitas keagamaan di lingkungan sekolah.
 
 
-## Bootcamp / Training
+
+## <mark style="color:blue;">Bootcamp</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**dan**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">Training</mark>
 
 ### Sekolah Devops Batch #14 - Cilsy Fiolution, Bandung
 
@@ -69,19 +99,25 @@ Teknik Komputer dan Jaringan merupakan ilmu berbasis Teknologi Informasi dan Kom
 
 Sekolah Devops adalah sebuah Bootcamp online bertujuan untuk mendidik siswanya untuk memulai karir sebagai Devops Engineer dalam waktu 16+ Minggu. Sekolah Devops merupakan bagian dari Sekolah Digital Cilsy.
 
-### Junior Network Administrator - Digital Talent Scholarship Kominfo, Bandung
+### Digipreneur & Softskill Academy  - Digital Talent Scholarship Kominfo, Bandung
 
-#### Juli 2016 - Mei 2019
-
-Network Administrator merupakan salah satu tema pelatihan Program Vocational School Graduate Academy Digital Talent Scholarship yang berbasis Standar Kompetensi Kerja Nasional Indonesia (SKKNI) dengan skema Junior Network Administrator. Peserta pelatihan Network Administrator akan mampu mengkonfigurasi perangkat jaringan dan mengelola jaringan komputer sesuai kebutuhan dunia kerja. Di akhir pelatihan peserta akan mengikuti uji kompetensi dan sertifikasi Junior Network Administrator, bagi yang dinyatakan kompeten akan mendapatkan Sertifikat Kompetensi Junior Network Administrator dari BNSP.
-
-### Digipreneur Academy - Digital Talent Scholarship Kominfo, Bandung
-
-#### Juli 2016 - Mei 2019
+#### Mei 2016 - Agustus 2019
 
 Pelatihan daring Kewirausahaan Digital atau Digipreneur Academy merupakan salah satu program di Digital Talent Scholarship 2019 yang bertujuan untuk menciptakan tenaga kerja terampil di bidang teknologi digital yang memiliki wawasan kewirausahaan untuk menghadapi industri 4.0. Digipreneur Academy merupakan kelas pendamping atau add on dari Fresh Graduate Academy dan Vocational School Graduate Academy. Program ini memberikan pengetahuan umum tentang industri 4.0, materi tentang manajemen tim, materi terkait penciptaan sebuah produk, metode pemasaran, dan termasuk tidak terbatas pada materi tentang langkah-langkah pendanaan dan best practice pada perusahaan rintisan.
 
-## Skills
+### Junior Network Administrator - Digital Talent Scholarship Kominfo, Bandung
+
+#### Juni 2019 - Juli 2019
+
+Network Administrator merupakan salah satu tema pelatihan Program Vocational School Graduate Academy Digital Talent Scholarship yang berbasis Standar Kompetensi Kerja Nasional Indonesia (SKKNI) dengan skema Junior Network Administrator. Peserta pelatihan Network Administrator akan mampu mengkonfigurasi perangkat jaringan dan mengelola jaringan komputer sesuai kebutuhan dunia kerja. Di akhir pelatihan peserta akan mengikuti uji kompetensi dan sertifikasi Junior Network Administrator, bagi yang dinyatakan kompeten akan mendapatkan Sertifikat Kompetensi Junior Network Administrator dari BNSP.
+
+### Latihan Dasar Kepemimpinan - OSIS SMKN2 BALEENDAH, Bandung
+
+#### Juni 2019 - Juli 2019
+
+Network Administrator merupakan salah satu tema pelatihan Program Vocational School Graduate Academy Digital Talent Scholarship yang berbasis Standar Kompetensi Kerja Nasional Indonesia (SKKNI) dengan skema Junior Network Administrator. Peserta pelatihan Network Administrator akan mampu mengkonfigurasi perangkat jaringan dan mengelola jaringan komputer sesuai kebutuhan dunia kerja. Di akhir pelatihan peserta akan mengikuti uji kompetensi dan sertifikasi Junior Network Administrator, bagi yang dinyatakan kompeten akan mendapatkan Sertifikat Kompetensi Junior Network Administrator dari BNSP.
+
+## <mark style="color:blue;">Skills</mark>
 
 ### Computer Network
 
@@ -99,24 +135,28 @@ Pelatihan daring Kewirausahaan Digital atau Digipreneur Academy merupakan salah 
 
 
 
+## <mark style="color:blue;">Certification</mark>
 
+### BNSP / Sertifikat Kompetensi Junior Network Administrator
 
-## Certification
-
-### Pemberi Sertifikasi / Judul sertifikasi
-
-#### Januari 2022 - Maret 2022
+#### 24 September 2019
 
 Deskripsi
 
-### Pemberi Sertifikasi / Judul sertifikasi
+### KOMINFO  / Sertifikat Peserta Digital Talent Scholarship 2019
 
-#### Januari 2022 - Maret 2022
+#### 31 Juli 2019
 
 Deskripsi
 
-### Pemberi Sertifikasi / Judul sertifikasi
+### OSIS SMKN 2 BALEENDAH / Judul sertifikasi
 
-#### Januari 2022 - Maret 2022
+#### 13 Desember 2018
+
+Deskripsi
+
+### CV. Lintas Opsi Gradasi Informatika / Sertifikat Prakerin
+
+#### 1 April 2018
 
 Deskripsi
