@@ -136,25 +136,41 @@ Network Administrator merupakan salah satu tema pelatihan Program Vocational Sch
 
 Network Administrator merupakan salah satu tema pelatihan Program Vocational School Graduate Academy Digital Talent Scholarship yang berbasis Standar Kompetensi Kerja Nasional Indonesia (SKKNI) dengan skema Junior Network Administrator. Peserta pelatihan Network Administrator akan mampu mengkonfigurasi perangkat jaringan dan mengelola jaringan komputer sesuai kebutuhan dunia kerja. Di akhir pelatihan peserta akan mengikuti uji kompetensi dan sertifikasi Junior Network Administrator, bagi yang dinyatakan kompeten akan mendapatkan Sertifikat Kompetensi Junior Network Administrator dari BNSP.
 
-## <mark style="color:blue;">Skills</mark>
+## Skills
 
 ### Computer Network
 
-### Communication & Collaboration Tools
+7 OSI Layer, DHCP Server Management, DNS & DDNS, Fail Over, Firewall, Intrusion Detection System (IDS), Intrusion Prevention System (IPS), LAN, Load balancing, Proxy, QoS & Traffic Control, SSH, Remote Desktop Apps, Static & Dynamic Routing, TCP/IP, Topology Design, VLSM & Subnetting, WAN, VPN.
+
+### Collaboration Tools
+
+GitBook, Google Workspace, Microsoft Team, Slack, Trello, Zoom
 
 ### Network Devices
 
+D-Link, Engenius, Fortigate, HP Network, MikroTik, TP-Link, LinkSys, Ubiquiti
+
 ### Network Monitoring
+
+Cacti, ELK, Grafana, HetrixTools, Prometheus, TIG, Zabbix
 
 ### Development Kit
 
-### Server Administration
+Git, Github, Gitlab, Jenkins, Laragon, VSCode, XAMPP.
+
+### Server Technology
+
+Docker, GNS3, Openstack, Proxmox VE, SSL/TLS Cert, SynologyNAS, VirtualBox, WSL, Zimbra
 
 ### Operating System
 
+Centos 7, Debian, FreeNAS, X OS, Raspberi Pi, Ubuntu, Windows, Windows Server
 
+### Graphic Design
 
-## <mark style="color:blue;">Certification</mark>
+Adobe Illustrator, Adobe Photoshop, Corel Draw, OBS, Studio, SketchUp, Sony Vegas
+
+## Certification
 
 ### BNSP / Sertifikat Kompetensi Junior Network Administrator
 
