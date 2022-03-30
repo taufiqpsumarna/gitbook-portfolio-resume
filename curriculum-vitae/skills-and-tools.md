@@ -18,7 +18,7 @@ Amazon Web Services, Google Cloud Platform.
 
 **Tools:**
 
-Ansible, AWS CLI, Cloudflare Firewall & DNS, CNCF Landscape**,** Ingress-contoller, Lens, Portainer, Teraform, Kops, K9S, Rancher.
+Ansible, AWS CLI, Cloudflare Firewall & DNS, Helm, CNCF Landscape**,** Ingress-contoller, Lens, Portainer, Teraform, Kops, K9S, Rancher.
 
 ### Collaboration Tools
 

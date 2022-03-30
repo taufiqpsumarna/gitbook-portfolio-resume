@@ -20,7 +20,7 @@ Saat ini saya berkarir sebagai IT Support & Network Engineer di perusahaan kontr
 * [Facebook](https://www.facebook.com/taufiqpsumarna)
 * [Instagram](https://www.instagram.com/taufiq\_14s/)
 
-Ada pertanyaan atau ingin bekerja sama ? Silahkan kontak saya di [**linkedin**](https://www.linkedin.com/in/taufiqpsumarna/)**😁**
+Ada pertanyaan atau ingin bekerja sama ? Silahkan kontak saya di [linkedin](https://www.linkedin.com/in/taufiqpsumarna/)😁
 
 ## **Menu Navigasi**
 
