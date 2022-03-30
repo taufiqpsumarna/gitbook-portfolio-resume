@@ -8,7 +8,7 @@ layout: landing
 
 ## Hi, Perkenalkan nama saya Taufiq 👋
 
-Saat ini saya berkarir sebagai IT Support & Network Engineer di perusahaan kontraktor MEP PT. Unicorn Tosan Perkasa Yang Bertempat Di Kota Bandung, saat ini saya juga berstatus sebagai mahasiswa aktif di STMIK AMIK BANDUNG program studi S1 Teknik Informatika kelas karyawan. Saat ini saya sedang mempelajari lebih dalam tentang Computer networking, Cyber security, Cloud computing, dan DevOps.
+Saat ini saya berkarir sebagai IT Support & Network Engineer di perusahaan kontraktor MEP PT. Unicorn Tosan Perkasa Yang Bertempat Di Kota Bandung, saat ini saya juga berstatus sebagai mahasiswa aktif di STMIK AMIK BANDUNG program studi S1 Teknik Informatika kelas karyawan. Saat ini saya sedang mempelajari lebih dalam tentang Computer network, Cyber security, Cloud computing, dan DevOps.
 
 ### Informasi Kontak
 
@@ -22,12 +22,12 @@ Ada pertanyaan atau ingin bekerja sama ? Silahkan kontak saya di [**linkedin**](
 
 ## **Menu Navigasi**
 
-{% content-ref url="my-document/curriculum-vitae.md" %}
-[curriculum-vitae.md](my-document/curriculum-vitae.md)
-{% endcontent-ref %}
-
 {% content-ref url="work/portofolio.md" %}
 [portofolio.md](work/portofolio.md)
+{% endcontent-ref %}
+
+{% content-ref url="my-document/curriculum-vitae.md" %}
+[curriculum-vitae.md](my-document/curriculum-vitae.md)
 {% endcontent-ref %}
 
 ## Kutipan Favorit
