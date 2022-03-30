@@ -143,7 +143,7 @@ Network Administrator merupakan salah satu tema pelatihan Program Vocational Sch
 
 ### Cloud Computing
 
-Amazon Web Services, Google Cloud, Teraform, Kops
+Amazon Web Services, Google Cloud Platform, Lens, Portainer, Teraform, Kops, Rancher.
 
 ### Collaboration Tools
 
