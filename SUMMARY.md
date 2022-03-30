@@ -2,14 +2,19 @@
 
 * [🏠 Introduction](README.md)
 
-## ⚙ Work
+## 🎨 Work Showcase
 
-* [📑 Portofolio](work/portofolio.md)
-* [🖥 My Lab Project](work/my-lab-project.md)
+* [📑 Portofolio](work-showcase/portofolio.md)
+* [🖥 My Lab Project](work-showcase/my-lab-project.md)
 
-## 📂 My Document
+## 🔰 curriculum vitae
 
-* [📄 Curriculum Vitae](my-document/curriculum-vitae.md)
+* [👷♂ Experience](curriculum-vitae/experience.md)
+* [🎓 Education](curriculum-vitae/education.md)
+* [🧭 Organization](curriculum-vitae/organization.md)
+* [📚 Bootcamp & Training](curriculum-vitae/bootcamp-and-training.md)
+* [🛠 Skills & Tools](curriculum-vitae/skills-and-tools.md)
+* [📃 Certification](curriculum-vitae/certification.md)
 
 ## 🟢 Download
 

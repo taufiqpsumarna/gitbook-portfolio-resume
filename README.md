@@ -22,12 +22,12 @@ Ada pertanyaan atau ingin bekerja sama ? Silahkan kontak saya di [**linkedin**](
 
 ## **Menu Navigasi**
 
-{% content-ref url="work/portofolio.md" %}
-[portofolio.md](work/portofolio.md)
+{% content-ref url="work-showcase/portofolio.md" %}
+[portofolio.md](work-showcase/portofolio.md)
 {% endcontent-ref %}
 
-{% content-ref url="my-document/curriculum-vitae.md" %}
-[curriculum-vitae.md](my-document/curriculum-vitae.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 ## Kutipan Favorit
