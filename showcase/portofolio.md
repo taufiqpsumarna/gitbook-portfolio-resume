@@ -44,7 +44,9 @@ Dalam membangun sebuah environment pada cloud platform kita perlu melakukan desa
 
 ## Desain Ruangan Khusus Video Conference menggunakan logitech meetup
 
+![First Test koordinasi dengan project site Bali](../.gitbook/assets/IMG\_20200221\_140238.jpg) ![Layout ruangan meeting](../.gitbook/assets/IMG\_20200131\_191258.jpg) ![Testing Konfigurasi bandwidth](../.gitbook/assets/IMG\_20200120\_161726.jpg) ![Pre testing ruangan direksi](../.gitbook/assets/IMG\_20200113\_141958.jpg)
 
+Sebelum terjadinya pandemi direksi menginginkan dibuat sistem video conference untuk menghemat cost perjalanan dinas hanya untuk monitoring pekerjaan di site project, namun tidak ada yang menyangka adanya pandemi yang membuat interaksi menjadi berat karena harus menjaga jarak, namun dengan adanya teknologi video conference yang diimplementasikan dalam perusahaan membuat koordinasi dan pengambilan keputusan menjadi lebih cepat, hal ini tentu saja sangat meningkatkan performa perusahaan dan sampai saat ini sistem video conference berjalan dengan baik.
 
 ## Implementasi Fortigate Firewall
 
