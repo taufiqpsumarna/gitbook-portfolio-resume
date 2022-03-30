@@ -8,36 +8,35 @@
 
 **Job Description:**
 
-* Membantu user dalam memanfaatkan perangkat serta teknologi IT dalam perusahaan.&#x20;
-* Instalasi perangkat, software dan perangkat jaringan komputer perusahaan.
-* Memastikan infrastruktur jaringan komputer perusahaan berjalan dengan lancar dan optimal.
-* Maintenance dan monitoring jaringan VPN dan server public on premise.
-* Manajemen server bare metal dan virtual dalam perusahaan.
-* Memastikan keamanan informasi perusahaan serta jaringan komputer yang digunakan.
-* Manajemen sistem Admin Google Workspace.
-* Manajemen Hosting , Domain dan Website perusahaan.
-* Melakukan dokumentasi topologi infrastruktur, hak akses dan konfigurasi perangkat IT yang digunakan.&#x20;
-* Melakukan monitoring infrastruktur IT perusahaan seperti jaringan komputer, CCTV dan server.
-* Melakukan manajemen dan optimalisasi bandwidth internet yang digunakan (QoS).
-* Melakukan optimalisasi, riset dan pengembangan perangkat user, software dan infrastruktur IT.&#x20;
-* Membantu desain, estimasi, pengadaan dan instalasi infrastruktur direksi kit project site.
-* Manajemen Aset IT perusahaan serta pengadaan perangkat IT yang dibutuhkan.
-* Melakukan maintenance dan perbaikan Aset IT dalam perusahaan.
+* Membantu user dalam penggunaan Aplikasi, Perangkat serta Teknologi IT dalam perusahaan.
+* Melakukan instalasi, troubleshooting, maintenance dan upgrade perangkat atau software yang digunakan oleh user.&#x20;
+* Melakukan Backup dan Restore data yang dimiliki user dan server.
+* Melakukan manajemen Web Hosting, Domain dan CMS yang digunakan oleh website perusahaan.&#x20;
+* Melakukan manajemen Admin Google Workspace perusahaan.&#x20;
+* Melakukan optimalisasi dan riset dalam penggunaan Teknologi IT yang digunakan oleh perusahaan.&#x20;
+* Melakukan instalasi, troubleshooting, maintenance, monitoring dan upgrade infrastruktur Jaringan, Server, CCTV dan Internet perusahaan.&#x20;
+* Melakukan dokumentasi konfigurasi dan infrastruktur IT yang digunakan oleh perusahaa. Melakukan optimalisasi penggunaan Bandwidth internet menggunakan metode QoS dan Traffic Priority.&#x20;
+* Membantu dalam desain infrastruktur dan kebutuhan perangkat Direksi Kit yang digunakan site project.&#x20;
+* Melakukan manajemen Aset dan Stok IT yang digunakan oleh perusahaan.&#x20;
+* Melakukan riset dan pengadaan Aset IT yang digunakan oleh perusahaan.
+* Memastikan Aset dan Stok IT perusahaan selalu siap untuk digunakan.
 
 **Achievement:**
 
-* Migrasi aplikasi HR system kedalam virtual server proxmox ve.
-* Melakukan perbaikan dan peningkatan fitur sistem recruitment pada website perusahaan.
-* Melakukan migrasi sistem zimbra mail server ke Google workspace untuk meningkatkan kolaborasi dan reliability pada sistem email.
+* Migrasi aplikasi HR system kedalam virtual server Proxmox VE.
+* Melakukan perbaikan dan peningkatan fitur notifikasi PHPMailer pada sistem recruitment website perusahaan.
+* Melakukan migrasi sistem Zimbra mail server ke Google Workspace untuk meningkatkan kolaborasi dan reliability pada sistem email.
 * Implementasi perangkat fortigate firewall untuk keamanan serta monitoring jaringan perusahaan.
-* Implementasi jaringan VPN L2TP/IPsec untuk kebutuhan Work From Home.
-* Implementasi sistem zabbix untuk monitoring jaringan lokal perusahaan.
+* Implementasi jaringan VPN L2TP/IPsec untuk kebutuhan Work From Home dan Remote jaringan lokal.
+* Implementasi sistem Zabbix untuk monitoring jaringan lokal perusahaan.
 * Implementasi sistem Hetrixtools monitoring uptime jaringan internet dan website SSL monitoring.
 * Instalasi server Proxmox VE untuk kebutuhan testing dan virtual server.
-* Instalasi dan migrasi konfigurasi perangkat router mikrotik X86 ke routerboard.
-* Implementasi QoS menghasilkan performa jaringan internet kantor lebih stabil dan optimal untuk kegiatan operasional perusahaan seperti browsing, streaming dan video conference.
+* Instalasi dan migrasi konfigurasi perangkat router mikrotik pc X86 ke Routerboard RB450Gx4.
+* Berhasil implementasi QoS dan menghasilkan performa jaringan internet kantor lebih stabil dan optimal untuk kegiatan operasional perusahaan seperti browsing, streaming dan video conference.
 * Perbaikan misskonfigurasi dan banyaknya spam yang masuk menuju zimbra email server.
-* Desan & instalasi ruangan khusus video conference menggunakan logitech meetup video conference camera.
+* Desain & instalasi ruangan khusus video conference menggunakan logitech meetup video conference camera.
+* Membantu upgrade Bandwidth jaringan internet dedicated ke 30 Mbps.
+* Mengatasi storage web hosting yang penuh dan upgrade kapasitas storage hosting.
 * Berhasil melengkapi dokumentasi teknis konfigurasi serta infrastruktur IT perusahaan.
 
 ### Network Engineer - Freelancer, Bandung
@@ -140,11 +139,19 @@ Network Administrator merupakan salah satu tema pelatihan Program Vocational Sch
 
 ### Computer Network
 
-7 OSI Layer, DHCP Server Management, DNS & DDNS, Fail Over, Firewall, Intrusion Detection System (IDS), Intrusion Prevention System (IPS), LAN, Load balancing, Proxy, QoS & Traffic Control, SSH, Remote Desktop Apps, Static & Dynamic Routing, TCP/IP, Topology Design, VLSM & Subnetting, WAN, VPN.
+7 OSI Layer, DHCP Server Management, DNS & DDNS, Fail Over, Firewall, Intrusion Detection System (IDS), Intrusion Prevention System (IPS), LAN, Load balancing, Network Attached Storage, SNMP, Proxy, QoS & Traffic Control, SSH, Remote Desktop Apps, Static & Dynamic Routing, TCP/IP, Topology Design, VLSM & Subnetting, WAN, VPN.
+
+### Cloud Computing
+
+AWS, Teraform
 
 ### Collaboration Tools
 
 GitBook, Google Workspace, Microsoft Team, Slack, Trello, Zoom
+
+### Development Kit
+
+Git, Github, Gitlab, Jenkins, Laragon, NPM,  VSCode, XAMPP.
 
 ### Network Devices
 
@@ -154,13 +161,9 @@ D-Link, Engenius, Fortigate, HP Network, MikroTik, TP-Link, LinkSys, Ubiquiti
 
 Cacti, ELK, Grafana, HetrixTools, Prometheus, TIG, Zabbix
 
-### Development Kit
-
-Git, Github, Gitlab, Jenkins, Laragon, VSCode, XAMPP.
-
 ### Server Technology
 
-Docker, GNS3, Openstack, Proxmox VE, SSL/TLS Cert, SynologyNAS, VirtualBox, WSL, Zimbra
+Docker, GNS3, Kubernetes, Openstack, Proxmox VE, SSL/TLS (Certbot), SynologyNAS, VirtualBox, WSL, Zimbra
 
 ### Operating System
 
