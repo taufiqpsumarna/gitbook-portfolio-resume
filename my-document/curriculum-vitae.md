@@ -143,7 +143,7 @@ Network Administrator merupakan salah satu tema pelatihan Program Vocational Sch
 
 ### Cloud Computing
 
-AWS, Teraform
+Amazon Web Services, Google Cloud, Teraform, Kops
 
 ### Collaboration Tools
 
@@ -151,7 +151,11 @@ GitBook, Google Workspace, Microsoft Team, Slack, Trello, Zoom
 
 ### Development Kit
 
-Git, Github, Gitlab, Jenkins, Laragon, NPM,  VSCode, XAMPP.
+Apache, API, CSS, cURL, Git, Github, Gitlab, HTML, Jenkins, Laragon, NPM, NGINX, Wget, VSCode, XAMPP.
+
+### Graphic Design
+
+Adobe Illustrator, Adobe Photoshop, Corel Draw, OBS, Studio, SketchUp, Sony Vegas
 
 ### Network Devices
 
@@ -167,11 +171,11 @@ Docker, GNS3, Kubernetes, Openstack, Proxmox VE, SSL/TLS (Certbot), SynologyNAS,
 
 ### Operating System
 
-Centos 7, Debian, FreeNAS, X OS, Raspberi Pi, Ubuntu, Windows, Windows Server
+Centos 7, Debian, FreeNAS, X OS, Raspberi Pi, Ubuntu, Windows, Windows Server.
 
-### Graphic Design
+### Programming Language
 
-Adobe Illustrator, Adobe Photoshop, Corel Draw, OBS, Studio, SketchUp, Sony Vegas
+Bash, PHP, Python, Yaml, Java, Javascript.
 
 ## Certification
 
