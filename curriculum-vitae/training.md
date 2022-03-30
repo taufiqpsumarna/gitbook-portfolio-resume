@@ -20,6 +20,6 @@ Network Administrator merupakan salah satu tema pelatihan Program Vocational Sch
 
 ### Latihan Dasar Kepemimpinan - OSIS SMKN2 BALEENDAH, Bandung
 
-#### Juni 2019 - Juli 2019
+#### Desember 2018
 
 Latihan Dasar Kepemimpinan / LDK adalah sebuah pelatihan dasar tentang segala hal yang berkaitan dengan kepemimpinan. Pelatihan ini diberikan oleh Pengurus OSIS lama kepada calon Pengurus OSIS baru, Setelah seluruh calon Pengurus OSIS baru mengikuti kedua LDK ini, akan dilantik menjadi Pengurus OSIS resmi. Pelantikan ini dilakukan oleh Pengurus OSIS lama dan disahkan oleh Kepala Sekolah. Pelantikan dan Pengesahan ini disaksikan oleh seluruh Dewan Guru dan Siswa/i sekolah yang bersangkutan dan dilaksanakan dalam sebuah upacara besar yaitu Upacara Pelantikan Pengurus OSIS baru.
