@@ -26,11 +26,11 @@ Draw.io (Diagram Maker), GitBook, Google Workspace, Microsoft Team, Slack, Trell
 
 ### Development Tools
 
-APT, Chocolatey, Yum, Yarn, NPM.
+APT, Chocolatey, Drupal, Yum, Yarn, NPM, MongoDB, MySQL, MariaDB, Wordpress.
 
 **Tools:**
 
-Git-SCM, Github, GitLab, Jenkins, Laragon, VSCode, XAMPP.
+DBeaver, Git-SCM, Github, GitLab, Jenkins, Laragon, VSCode, XAMPP.
 
 ### Graphic Design Tools
 
