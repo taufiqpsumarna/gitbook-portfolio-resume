@@ -7,7 +7,7 @@
 * [📑 Portofolio](work-showcase/portofolio.md)
 * [🖥 My Lab Project](work-showcase/my-lab-project.md)
 
-## 🔰 curriculum vitae
+## 🔰 Curriculum Vitae
 
 * [👷♂ Experience](curriculum-vitae/experience.md)
 * [🎓 Education](curriculum-vitae/education.md)

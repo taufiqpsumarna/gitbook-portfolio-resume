@@ -22,8 +22,8 @@ Ada pertanyaan atau ingin bekerja sama ? Silahkan kontak saya di [**linkedin**](
 
 ## **Menu Navigasi**
 
-{% content-ref url="work-showcase/portofolio.md" %}
-[portofolio.md](work-showcase/portofolio.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="broken-reference" %}
