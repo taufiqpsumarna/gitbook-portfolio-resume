@@ -30,7 +30,7 @@ APT, Chocolatey, Yum, Yarn, NPM.
 
 **Tools:**
 
-Git, Github, GitLab, Jenkins, Laragon, VSCode, XAMPP.
+Git-SCM, Github, GitLab, Jenkins, Laragon, VSCode, XAMPP.
 
 ### Graphic Design Tools
 
@@ -42,7 +42,7 @@ D-Link, Engenius, Fortigate, HP Network, MikroTik, TP-Link, LinkSys, Ubiquiti
 
 ### Network Monitoring Tools
 
-Cacti, ELK, Grafana, HetrixTools, Prometheus, TIG, Zabbix
+Cacti, DatadogHQ, ELK, Grafana, HetrixTools, Prometheus, TIG, Zabbix
 
 ### Server Technology
 
@@ -54,7 +54,7 @@ Centos 7, Debian, FreeNAS, X OS, Raspberi Pi, Ubuntu, Windows, Windows Server.
 
 **Tools:**
 
-APT, cURL, Dig, SS, Wget, HTop, Top, Yum, And Other Common Bash
+APT, cURL, Dig, SS, Wget, HTop, Top, Yum, And Other Linux Common Bash
 
 ### Programming Language
 
