@@ -1,4 +1,4 @@
-# 📚 Bootcamp & Training
+# 🏋♂ Training
 
 ### Sekolah Devops Batch #14 - Cilsy Fiolution, Bandung
 
