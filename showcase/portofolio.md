@@ -42,6 +42,10 @@ Untuk mengakses sistem internal yang berada pada cloud kita membutuhkan sebuah k
 
 Dalam membangun sebuah environment pada cloud platform kita perlu melakukan desain topologi untuk desain sendiri hampir sama dengan topologi on premise namun perbedeaan yang paling utama adalah infrastruktur yang kita miliki tidak benar-benar ada melainkan berada di provider cloud yang kita gunakan, dan tentunya ada pembagian antara Jaringan private dan publik untuk faktor keamananan.
 
+## Desain Ruangan Khusus Video Conference menggunakan logitech meetup
+
+
+
 ## Implementasi Fortigate Firewall
 
 ![](<../.gitbook/assets/Screenshot (63).png>) ![](<../.gitbook/assets/Screenshot (64).png>) ![](<../.gitbook/assets/Screenshot (65).png>) ![Implementasi fortigate firewall pada perusahaan sebelumnya](<../.gitbook/assets/Screenshot (66).png>)
@@ -88,6 +92,6 @@ Untuk memastikan status infrastruktur yang kita miliki berjalan dengan aman kita
 
 ## Implementasi Quality Of Service Pada Jaringan Komputer
 
-![](<../.gitbook/assets/image (4).png>)
+![](<../.gitbook/assets/image (4) (1).png>)
 
 Quality Of Service adalah sebuah teknik dalam jaringan komputer untuk menjamin berjalannya traffic secara lancar dan minim interfrensi meskipun traffic yang berjalan sedang padat, hal ini dapat dicapai dengan melakukan klasifikasi traffic, mengurutkan prioritas traffic, dan bandwidth control.
