@@ -4,7 +4,7 @@
 
 ![Service Deployment Using KOPS Cluster](<../.gitbook/assets/Screenshot (54).png>) ![K9S](<../.gitbook/assets/Screenshot (56).png>) ![K9S Logs](<../.gitbook/assets/Screenshot (60).png>)
 
-Sebelum culture DevOps berkembang, kita masih menggunakan satu server secara monolith sehingga hal ini menyebabkan cost dan waktu deployment aplikasi berjalan sangat lama karena kita perlu melakukan instalasi dan pengadaan server, namun saat ini teknologi cloud dan arsitektur software dengan basis _microservice_ sangat membantu bisnis dalam kecepatan deploy apps dan pengembangan, maka dari itu perlu sistem untuk melakukan manajemen kluster salah satunya kita bisa menggunakan tools seperti Lens, K9s, Kube Dashboard, dan Rancher untuk melakukan monitoring dan deployment biasanya tools ini dipadukan juga dengan sistem monitoring lainnya seperti Prometheus, Grafana, ELK Stack, TIG Stack dll.
+Sebelum adanya culture DevOps , kita masih menggunakan metode waterfall dan menggunakan satu server monolith untuk satu aplikasi sehingga hal ini menyebabkan cost, performance degraded dan waktu deployment aplikasi berjalan sangat lama karena kita perlu melakukan instalasi dan pengadaan server, namun saat ini teknologi cloud dan arsitektur software dengan basis _microservice_ sangat membantu bisnis dalam kecepatan deploy apps dan pengembangan, maka dari itu perlu sistem untuk melakukan manajemen kluster salah satunya kita bisa menggunakan tools seperti Lens, K9s, Kube Dashboard, dan Rancher untuk melakukan monitoring dan deployment biasanya tools ini dipadukan juga dengan sistem monitoring lainnya seperti Prometheus, Grafana, ELK Stack, TIG Stack dll.
 
 ## Topologi kubernetes cluster AWS menggunakan KOPS
 
