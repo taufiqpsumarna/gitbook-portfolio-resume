@@ -2,9 +2,9 @@
 
 * [🏠 Introduction](README.md)
 
-## 🎨 Work Showcase
+## 🎨 Showcase
 
-* [📑 Portofolio](work-showcase/portofolio.md)
+* [📑 Portofolio](showcase/portofolio.md)
 
 ## 🔰 Curriculum Vitae
 
