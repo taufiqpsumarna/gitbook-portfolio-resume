@@ -22,7 +22,7 @@ AWS CLI, Cloudflare Firewall & DNS, CNCF Landscape**,** Ingress-contoller, Lens,
 
 ### Collaboration Tools
 
-Draw.io (Diagram Maker), GitBook, Google Workspace, Microsoft Team, Slack, Trello, Zoom
+Dropbox, Draw.io (Diagram Maker), GitBook, Google Workspace, Microsoft Team, Microsoft 365, Slack, Trello, Zoom
 
 ### Development Tools
 
@@ -59,3 +59,7 @@ APT, cURL, Dig, SS, Wget, HTop, Top, Yum, And Other Linux Common Bash
 ### Programming Language
 
 Bash, PHP, Python, Yaml, Java, Javascript.
+
+### Workflow
+
+Agile, Scrum, DevOps, Waterfall

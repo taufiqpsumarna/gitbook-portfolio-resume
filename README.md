@@ -38,3 +38,9 @@ Ada pertanyaan atau ingin bekerja sama ? Silahkan kontak saya di [**linkedin**](
 > _"..The ultimate measure of a man is not where he stands in moments of convenience and comfort, but where he stands at times of challenge and controversy.."_
 >
 > \-Martin Luther King, Jr.
+
+
+
+> _"Formal education will make you a living. Self-education will make you a fortune.”_ 
+>
+> — Jim Rohn.

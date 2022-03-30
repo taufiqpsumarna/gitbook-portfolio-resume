@@ -5,7 +5,6 @@
 ## 🎨 Work Showcase
 
 * [📑 Portofolio](work-showcase/portofolio.md)
-* [🖥 My Lab Project](work-showcase/my-lab-project.md)
 
 ## 🔰 Curriculum Vitae
 
