@@ -1,7 +1,4 @@
 ---
-description: >-
-  Tak kenal maka tak sayang, kalau udah lama kenal tapi gak sayang-sayang itu
-  gimana ?
 layout: landing
 ---
 
