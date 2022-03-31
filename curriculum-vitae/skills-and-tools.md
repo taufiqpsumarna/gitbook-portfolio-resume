@@ -26,7 +26,7 @@ Dropbox, Draw.io (Diagram Maker), GitBook, Google Workspace, Microsoft Team, Mic
 
 ### Development Tools
 
-APT, Chocolatey, Drupal, ElasticSearch, Yum, Yarn, NPM, MongoDB, MySQL, MariaDB, Wordpress.
+APT, Chocolatey, Drupal, ElasticSearch, Yum, Yarn, NPM, Node, MongoDB, MySQL, MariaDB, Wordpress.
 
 **Tools:**
 
