@@ -1,5 +1,17 @@
 # 📑 Portofolio
 
+## Jenkins CI/CD Dashboard
+
+![Dashboard Jenkins](../.gitbook/assets/jenkins5.png) ![Console Output](../.gitbook/assets/jenkins4.png) ![Dashoard Jenkins Project](../.gitbook/assets/Jenkins3.png) ![Hasil Build Jenkins](../.gitbook/assets/Jenkins.png)
+
+Jenkins adalah server otomatisasi sumber terbuka. Ini membantu mengotomatiskan bagian-bagian pengembangan perangkat lunak yang terkait dengan pembangunan, pengujian, dan penerapan, memfasilitasi integrasi berkelanjutan dan pengiriman berkelanjutan.
+
+## Netdata Monitoring Dashboard
+
+![Netdata Instance Grouping](../.gitbook/assets/Netdata2.png) ![Netdata Summary Dashboard](../.gitbook/assets/Netdata.png)
+
+Netdata adalah tool monitoring yang mengoleksi data sistem, hardware, aplikasi, maupun container secara realtime. Dan yang membuat Netdata sendiri cukup populer adalah konfigurasinya cukup simple. Sehingga kita tidak perlu ribet di awal untuk mulai menggunakan Netdata.
+
 ## KOPS Kubernetes Cluster Provisioning
 
 ![Service Deployment Using KOPS Cluster](<../.gitbook/assets/Screenshot (54).png>) ![K9S](<../.gitbook/assets/Screenshot (56).png>) ![K9S Logs](<../.gitbook/assets/Screenshot (60).png>)
@@ -76,7 +88,7 @@ Hal ini mempercepat waktu respons internet dalam mengakses resource pada interne
 
 ## Implementasi VLAN untuk memisahkan jaringan secara virtual
 
-![Topologi jaringan VLAN](<../.gitbook/assets/image (5).png>)
+![Topologi jaringan VLAN](<../.gitbook/assets/image (5) (1).png>)
 
 VLAN (Virtual LAN / Virtual Local Area Network) adalah domain broadcast yang dipartisi dan terisolasi dalam jaringan komputer pada lapisan data link. Topologi VLAN adalah bentuk jaringan dengan model LAN sangat bergantung pada letak workstation. VLAN berfungsi untuk menyediakan layanan secara tradisional. pada umumnya VLAN diimplementasikan sebagai faktor keamanan, cost reduce serta membantu Admin untuk memudahkan dalam manajemen jaringan.
 
