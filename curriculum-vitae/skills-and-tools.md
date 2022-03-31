@@ -4,7 +4,7 @@
 
 **Skills:**
 
-7 OSI Layer, DHCP Server Management, DNS & DDNS, Fail Over, Firewall, Intrusion Detection System (IDS), Intrusion Prevention System (IPS), LAN, Load balancing, Network Attached Storage, SNMP, Proxy, QoS & Traffic Control, SSH, Remote Desktop Apps, Static & Dynamic Routing, TCP/IP, Topology Design, VLSM & Subnetting, VLAN, WAN, VPN.
+7 OSI Layer, DHCP Server Management, DNS & DDNS, Fail Over, Firewall, Intrusion Detection System (IDS), Intrusion Prevention System (IPS), LAN, Load balancing, Network Attached Storage, SNMP, Port-Forwarding, Proxy, QoS & Traffic Control, SSH, Remote Desktop Apps, Reverse Proxy, Static & Dynamic Routing, TCP/IP, Topology Design, VLSM & Subnetting, VLAN, WAN, VPN.
 
 **Tools:**
 
