@@ -54,7 +54,7 @@ Centos 7, Debian, FreeNAS, X OS, Raspberi Pi, Ubuntu, Windows, Windows Server.
 
 **Tools:**
 
-APT, cURL, Dig, SS, Wget, HTop, Top, Yum, And Other Linux Common Bash
+APT, Crontab, cURL, Dig, SS, Wget, HTop, Top, Yum, And Other Linux Common Bash
 
 ### Programming Language
 

@@ -2,6 +2,8 @@
 
 ## Jenkins CI/CD Dashboard
 
+![Jenkins dengan SSL certificate nginx proxy](<../.gitbook/assets/jenkins with ssl.png>)
+
 ![Dashboard Jenkins](../.gitbook/assets/jenkins5.png) ![Console Output](../.gitbook/assets/jenkins4.png) ![Dashoard Jenkins Project](../.gitbook/assets/Jenkins3.png) ![Hasil Build Jenkins](../.gitbook/assets/Jenkins.png)
 
 Jenkins adalah server otomatisasi sumber terbuka. Ini membantu mengotomatiskan bagian-bagian pengembangan perangkat lunak yang terkait dengan pembangunan, pengujian, dan penerapan, memfasilitasi integrasi berkelanjutan dan pengiriman berkelanjutan.
