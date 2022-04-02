@@ -1,5 +1,15 @@
 # 📑 Portofolio
 
+##
+
+## Kong Ingress Controller Kubernetes
+
+![Kong Ingress Controller Diagram](<../.gitbook/assets/image (1).png>) ![Domain Configuration](<../.gitbook/assets/kong ingress domain.png>)
+
+![](<../.gitbook/assets/Screenshot (71).png>) ![](<../.gitbook/assets/Screenshot (72).png>) ![](<../.gitbook/assets/Screenshot (73).png>)
+
+Ingress controller adalah sebuah service pada kubernetes yang berfungsi untuk mengekspos service keluar cluster fungsinya hampir sama dengan tipe service LoadBalancer namun perbedaan yang paling utama adalah service type ingress hanya membutuhkan satu loadbalancer saja dari cloud provider sehingga hal ini dapat mengurangi penggunaan budget pada cloud platform.
+
 ## Jenkins CI/CD Dashboard
 
 ![Jenkins dengan SSL certificate nginx proxy](<../.gitbook/assets/jenkins with ssl.png>)
@@ -46,7 +56,7 @@ Dengan desain topologi diatas diharapkan Aplikasi yang dijalankan dapat berjalan
 
 ## Implementasi VPN Server dengan Pritunl / Openvpn pada AWS
 
-![Topologi Untuk mengamankan resource cloud menggunakan VPN Gateway](<../.gitbook/assets/image (1).png>)
+![Topologi Untuk mengamankan resource cloud menggunakan VPN Gateway](<../.gitbook/assets/image (1) (1).png>)
 
 Untuk mengakses sistem internal yang berada pada cloud kita membutuhkan sebuah koneksi yang aman yaitu VPN, tujuan utamanya adalah agar kita dapat mengakses resource internal yang kita miliki secara aman.
 
