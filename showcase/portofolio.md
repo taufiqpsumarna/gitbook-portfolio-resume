@@ -1,6 +1,10 @@
 # 📑 Portofolio
 
-##
+## Lens Kubernetes IDE for GUI Teams !
+
+![Lens Cluster Dashboard](<../.gitbook/assets/Screenshot (68).png>) ![Lens Nodes List](<../.gitbook/assets/Screenshot (69).png>) ![Lens Nodes Workload List](<../.gitbook/assets/Screenshot (70).png>)
+
+Lens adalah salah satu tools yang saya gunakan untuk manage dan monitoring kubernetes cluster, lens memungkinkan kita untuk monitoring container, pod, deployment, service,dsb dalam satu aplikasi atau dashboard yang sangat mudah, dan didalamnya terdapat metrix untuk monitoring penggunaan kluster
 
 ## Kong Ingress Controller Kubernetes
 
