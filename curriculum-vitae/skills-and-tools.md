@@ -18,7 +18,7 @@ Amazon Web Services, Google Cloud Platform.
 
 **Tools:**
 
-Ansible, AWS CLI, Cloudflare Firewall & DNS, Helm, CNCF Landscape**,** Ingress-contoller, Lens, Portainer, Sonarqube, Teraform, Kubectx, Kops, K9S, Rancher.
+Ansible, AWS CLI, Cloudflare Firewall & DNS, Helm, CNCF Landscape**,** Ingress-contoller, Lens, Portainer, Sonarqube, Terraform, Kubectx, Kops, K9S, Kongs, Rancher.
 
 ### Collaboration Tools
 
@@ -34,7 +34,7 @@ DBeaver, Git-SCM, Github, GitLab, Jenkins, Laragon, VSCode, XAMPP.
 
 ### Graphic Design Tools
 
-Adobe Illustrator, Adobe Photoshop, Corel Draw, OBS, Studio, SketchUp, Sony Vegas
+Adobe Illustrator, Adobe Photoshop, Corel Draw, OBS Studio, SketchUp, Sony Vegas
 
 ### Network Devices
 
