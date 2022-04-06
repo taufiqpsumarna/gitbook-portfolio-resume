@@ -58,8 +58,10 @@ APT, Crontab, cURL, Dig, SS, Wget, HTop, Top, Yum, And Other Linux Common Bash
 
 ### Scripting Language
 
-Bash, Python, Yaml.
+Bash, HCL, Yaml.
 
 ### Workflow
 
 Agile, Scrum, DevOps, Waterfall
+
+> _There are so many technologies and tools that I want to learn more about, so I don't stop learning_ 🙂
