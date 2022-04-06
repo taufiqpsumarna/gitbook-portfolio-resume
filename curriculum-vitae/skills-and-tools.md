@@ -42,7 +42,7 @@ D-Link, Engenius, Fortigate, HP Network, MikroTik, TP-Link, LinkSys, Ubiquiti
 
 ### Network Monitoring Tools
 
-Cacti, DatadogHQ, ELK, Grafana, HetrixTools, Prometheus, NetData, TIG, Zabbix
+Cacti, DatadogHQ, ELK, EFK, Grafana, HetrixTools, Prometheus, NetData, TIG, Zabbix
 
 ### Server Technology
 
@@ -56,9 +56,9 @@ Centos 7, Debian, FreeNAS, X OS, Raspberi Pi, Ubuntu, Windows, Windows Server.
 
 APT, Crontab, cURL, Dig, SS, Wget, HTop, Top, Yum, And Other Linux Common Bash
 
-### Programming Language
+### Scripting Language
 
-Bash, PHP, Python, Yaml, Java, Javascript.
+Bash, Python, Yaml.
 
 ### Workflow
 
