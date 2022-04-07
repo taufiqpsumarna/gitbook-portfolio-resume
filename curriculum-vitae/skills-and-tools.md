@@ -60,9 +60,9 @@ APT, Crontab, cURL, Dig, SS, Wget, HTop, Top, Yum, And Other Linux Common Bash
 
 Bash, HCL, Yaml.
 
-### Workflow
+### SDLC Workflow
 
-Agile, Scrum, DevOps, Waterfall
+Waterfall, Scrum, Agile, DevOps.
 
 > _There are so many technologies and tools that I want to learn more about,_\
 > _so I'm still learning, I am very open to learning something new_🙂
