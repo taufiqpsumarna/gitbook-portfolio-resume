@@ -65,4 +65,4 @@ Bash, HCL, Yaml.
 Agile, Scrum, DevOps, Waterfall
 
 > _There are so many technologies and tools that I want to learn more about,_\
-> _so I'm still learning_🙂
+> _so I'm still learning, I am very open to learning something new_🙂
