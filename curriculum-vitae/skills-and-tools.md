@@ -42,7 +42,7 @@ D-Link, Engenius, Fortigate, HP Network, MikroTik, TP-Link, LinkSys, Ubiquiti
 
 ### Network Monitoring Tools
 
-Cacti, DatadogHQ, ELK, EFK, Grafana, HetrixTools, Prometheus, NetData, TIG, Zabbix
+Cacti, DatadogHQ, EFK, Grafana, HetrixTools, Prometheus, NetData, TIG, Zabbix
 
 ### Server Technology
 
