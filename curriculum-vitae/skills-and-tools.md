@@ -30,7 +30,7 @@ APT, Chocolatey, Drupal, ElasticSearch, Yum, Yarn, NPM, Node, MongoDB, MySQL, Ma
 
 **Tools:**
 
-DBeaver, Git-SCM, Github, GitLab, Jenkins, Laragon, VSCode, XAMPP.
+DBeaver, Git-SCM, Github, GitLab, Jenkins, Jenkins-Blueocean Laragon, VSCode, XAMPP.
 
 ### Graphic Design Tools
 
