@@ -22,6 +22,8 @@
 
 **Achievement:**
 
+* Berhasil melakukan optimalisasi sistem infrastruktur IT perusahaan.
+* Perbaikan dokumentasi dari sistem infrastruktur IT perusahaan.
 * Migrasi aplikasi HR system kedalam virtual server Proxmox VE.
 * Melakukan perbaikan dan peningkatan fitur notifikasi PHPMailer pada sistem recruitment website perusahaan.
 * Melakukan migrasi sistem Zimbra mail server ke Google Workspace.
