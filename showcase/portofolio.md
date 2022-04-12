@@ -1,5 +1,15 @@
 # 📑 Portofolio
 
+## Jenkins Pipeline Continous Integration
+
+![Jenkins Pipeline](<../.gitbook/assets/image (2).png>)
+
+![Jenkins Pipeline Status](<../.gitbook/assets/image (9).png>)
+
+![Console Output](../.gitbook/assets/image.png)
+
+Pada pipeline jenkins kali ini kita akan melakukan desain pipeline dengan integrasi github webhook sehingga ketika ada perubahan code secara otomatis jenkins akan melakukan build image, tagging dan kemudian image tersebut akan kita upload kedalam Docker registry setelah itu image terbaru juga akan dijalankan kedalam remote Docker server.
+
 ## Lens Kubernetes IDE for GUI Teams !
 
 ![Lens Cluster Dashboard](<../.gitbook/assets/Screenshot (68).png>) ![Lens Nodes List](<../.gitbook/assets/Screenshot (69).png>) ![Lens Nodes Workload List](<../.gitbook/assets/Screenshot (70).png>)
@@ -8,7 +18,7 @@ Lens adalah salah satu tools yang saya gunakan untuk manage dan monitoring kuber
 
 ## Kong Ingress Controller Kubernetes
 
-![Kong Ingress Controller Diagram](<../.gitbook/assets/image (1).png>) ![Domain Configuration](<../.gitbook/assets/kong ingress domain.png>)
+![Kong Ingress Controller Diagram](<../.gitbook/assets/image (1) (1).png>) ![Domain Configuration](<../.gitbook/assets/kong ingress domain.png>)
 
 ![](<../.gitbook/assets/Screenshot (71).png>) ![](<../.gitbook/assets/Screenshot (72).png>) ![](<../.gitbook/assets/Screenshot (73).png>)
 
@@ -52,7 +62,7 @@ Salah satu resource yang paling krusial dan perlu kita lindungi adalah **Databas
 
 ## Topologi AWS High Availability
 
-![Topologi Infrastruktur High Availibilty AWS](../.gitbook/assets/image.png)
+![Topologi Infrastruktur High Availibilty AWS](<../.gitbook/assets/image (1).png>)
 
 Topologi yang dibangun pada AWS yang memanfaatkan 3 multiple AZ, memanfaatkan layanan S3 Bucket untuk penyimpanan konten, Auto Scalling EC2 Instance, Application Load Balancer dan Amazon RDS untuk penyimpanan databasenya, serta memanfaatkan fitur IAM untuk membagi hak akses terhadap resource yang berada didalam AWS.
 
@@ -60,7 +70,7 @@ Dengan desain topologi diatas diharapkan Aplikasi yang dijalankan dapat berjalan
 
 ## Implementasi VPN Server dengan Pritunl / Openvpn pada AWS
 
-![Topologi Untuk mengamankan resource cloud menggunakan VPN Gateway](<../.gitbook/assets/image (1) (1).png>)
+![Topologi Untuk mengamankan resource cloud menggunakan VPN Gateway](<../.gitbook/assets/image (1) (1) (1).png>)
 
 Untuk mengakses sistem internal yang berada pada cloud kita membutuhkan sebuah koneksi yang aman yaitu VPN, tujuan utamanya adalah agar kita dapat mengakses resource internal yang kita miliki secara aman.
 
@@ -110,13 +120,13 @@ VLAN (Virtual LAN / Virtual Local Area Network) adalah domain broadcast yang dip
 
 ## Topologi Jaringan LAN Sederhana
 
-![Topologi sederhana jaringan LAN pada SOHO.](<../.gitbook/assets/image (9).png>)
+![Topologi sederhana jaringan LAN pada SOHO.](<../.gitbook/assets/image (9) (1).png>)
 
 Untuk jaringan lokal berskala kecil biasanya hanya terdiri dari modem, router, switch, access point dan untuk client dapat berupa PC, Laptop atau Smartphone, pada case kali ini kita menggunakan jaringan LAN dengan network 192.168.50.0/24 dan alamat IP router sebagai gateway menuju jaringan internet 192.168.50.1 untuk mengakses konfigurasi router kita gunakan IP Address 192.168.50.254 dan kita menggunakan IP Publik 182.223.113.242 untuk akses internet sendiri kita akan menggunakan firewall NAT.
 
 ## Implementasi Zabbix Sebagai Network Monitoring System
 
-![Implementasi Zabbix Monitoring Pada Perusahaan Sebelumnya](<../.gitbook/assets/image (2).png>)
+![Implementasi Zabbix Monitoring Pada Perusahaan Sebelumnya](<../.gitbook/assets/image (2) (1).png>)
 
 Untuk memastikan status infrastruktur yang kita miliki berjalan dengan aman kita perlu melakukan monitoring salah satunya adalah kita bisa menggunakan Zabbix network monitoring&#x20;
 
