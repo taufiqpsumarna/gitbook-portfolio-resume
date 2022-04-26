@@ -1,6 +1,16 @@
 # 📑 Portofolio
 
-## Jenkins Pipeline Continous Integration
+## Integrasi Sonarqube Static Code Analyst dengan Github Action
+
+![Sonarqube Project Dashboard](<../.gitbook/assets/image (4).png>)
+
+![Hasil Analisa Sonarqube](<../.gitbook/assets/image (3).png>) ![Hasil Analisa Sonarqube Codesmell](<../.gitbook/assets/image (8).png>)
+
+![Github Workflows](<../.gitbook/assets/image (5).png>) ![Github Build Status](<../.gitbook/assets/image (12).png>)
+
+SonarQube adalah alat peninjauan kode otomatis untuk mendeteksi bug, kerentanan, dan code smells dalam kode yang dibuat. SonarQube bisa terintegrasi dengan alur kerja dalam banyak proyek dalam pemeriksaan kode yang berkelanjutan, sonarqube dapat dijalankan dalam satu server kemudian di integrasikan dengan SCM atau integrasi dengan proses continous integration
+
+## Jenkins Pipeline Continuous Integration
 
 ![Jenkins Pipeline](<../.gitbook/assets/image (2).png>)
 
@@ -54,7 +64,7 @@ Disini kita memanfaatkan deployment dan kubernetes services sehingga kubernetes 
 
 ## SSH Bastion / Jumphost teknik koneksi internal resource secara aman.
 
-![Ilustrasi bagaimana Jumphost / Bastion bekerja](<../.gitbook/assets/image (8).png>)
+![Ilustrasi bagaimana Jumphost / Bastion bekerja](<../.gitbook/assets/image (8) (1).png>)
 
 Ketika kita membangun sebuah infrastruktur salah satu aspek yang perlu kita perhitungkan adalah **Keamanan** hal ini sangat penting karena dengan melindungi resource yang tersedia dalam infrastruktur kita sama artinya kita melindungi data yang kita miliki.
 
@@ -76,7 +86,7 @@ Untuk mengakses sistem internal yang berada pada cloud kita membutuhkan sebuah k
 
 ## Topologi Sederhana AWS
 
-![Topologi Sederhana Software Development pada AWS](<../.gitbook/assets/image (7).png>)
+![Topologi Sederhana Software Development pada AWS](<../.gitbook/assets/image (7) (1).png>)
 
 Dalam membangun sebuah environment pada cloud platform kita perlu melakukan desain topologi untuk desain sendiri hampir sama dengan topologi on premise namun perbedeaan yang paling utama adalah infrastruktur yang kita miliki tidak benar-benar ada melainkan berada di provider cloud yang kita gunakan, dan tentunya ada pembagian antara Jaringan private dan publik untuk faktor keamananan.
 
@@ -94,19 +104,19 @@ firewall adalah sistem keamanan jaringan komputer yang mampu melindungi dari ser
 
 ## Implementasi jaringan VPN pada perusahaan.
 
-![Topologi VPN](<../.gitbook/assets/image (3).png>)
+![Topologi VPN](<../.gitbook/assets/image (3) (1).png>)
 
 VPN atau virtual private network merupakan sebuah teknik dalam jaringan komputer yang bertujuan untuk menghubungkan jaringan lokal pada suatu tempat dengan jaringan yang kita miliki, beberapa keuntungan yang bisa kita temui adalah kemudahan dalam melakukan remotting perangkat jaringan lokal, traffic yang terkenkripsi membuat komunikasi lebih aman serta memungkinkan kita sebagai admin dalam manajemen perangkat dari jarak jauh / remote.
 
 ## Fail Over Koneksi Internet
 
-![Topologi load balancer](<../.gitbook/assets/image (10).png>)
+![Topologi load balancer](<../.gitbook/assets/image (10) (1).png>)
 
 Failover adalah salah satu metode pada jaringan untuk menghindari down time koneksi. Dan sering digunakan jika memiliki lebih dari 1 sumber internet. Cara kerja dari failover, akan terdapat minimal 2 link atau jalur menuju ke internet. Jalur 1 akan berfungsi sebagai main link atau jalur utama.
 
 ## Load Balancer Koneksi Internet
 
-![Topologi load balancer](<../.gitbook/assets/image (6).png>)
+![Topologi load balancer](<../.gitbook/assets/image (6) (1).png>)
 
 Load balancing adalah proses pembagian beban _traffic_ sebuah aplikasi atau server. Dengan load balancer, beban traffic tidak akan dibebankan kepada beberapa jalur koneksi.
 
@@ -114,7 +124,7 @@ Hal ini mempercepat waktu respons internet dalam mengakses resource pada interne
 
 ## Implementasi VLAN untuk memisahkan jaringan secara virtual
 
-![Topologi jaringan VLAN](<../.gitbook/assets/image (5) (1).png>)
+![Topologi jaringan VLAN](<../.gitbook/assets/image (5) (1) (1).png>)
 
 VLAN (Virtual LAN / Virtual Local Area Network) adalah domain broadcast yang dipartisi dan terisolasi dalam jaringan komputer pada lapisan data link. Topologi VLAN adalah bentuk jaringan dengan model LAN sangat bergantung pada letak workstation. VLAN berfungsi untuk menyediakan layanan secara tradisional. pada umumnya VLAN diimplementasikan sebagai faktor keamanan, cost reduce serta membantu Admin untuk memudahkan dalam manajemen jaringan.
 
@@ -132,6 +142,6 @@ Untuk memastikan status infrastruktur yang kita miliki berjalan dengan aman kita
 
 ## Implementasi Quality Of Service Pada Jaringan Komputer
 
-![](<../.gitbook/assets/image (4) (1).png>)
+![](<../.gitbook/assets/image (4) (1) (1).png>)
 
 Quality Of Service adalah sebuah teknik dalam jaringan komputer untuk menjamin berjalannya traffic secara lancar dan minim interfrensi meskipun traffic yang berjalan sedang padat, hal ini dapat dicapai dengan melakukan klasifikasi traffic, mengurutkan prioritas traffic, dan bandwidth control.
