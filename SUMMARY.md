@@ -5,6 +5,7 @@
 ## 🎨 Showcase
 
 * [📑 Portofolio](showcase/portofolio.md)
+* [🪖 Project](showcase/project.md)
 * [🖼 Gallery](showcase/gallery.md)
 
 ## 🔰 Curriculum Vitae
