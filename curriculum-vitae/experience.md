@@ -1,6 +1,6 @@
 # 👷♂ Experience
 
-### IT Support & Network Engineer - PT. Unicorn Tosan Perkasa, Bandung
+### DevOps Engineer - PT. IDStar Cipta Teknologi, Jakarta Selatan
 
 #### Mei 2022 - Sekarang
 
