@@ -2,7 +2,27 @@
 
 ### IT Support & Network Engineer - PT. Unicorn Tosan Perkasa, Bandung
 
-#### September 2019 - Sekarang
+#### Mei 2022 - Sekarang
+
+**Job Description:**
+
+DevOps Engineer - Information Technology Research And Development - IT Delivery
+
+Membantu perusahaan dalam menerapkan kultur DevOps dan menerapkan berbagai tools dan infrastruktur DevOps untuk mempercepat proses pengembangan aplikasi perusahaan dan project, membuat desain infrastructure cloud, pushing security to the left, benchmarking, attack surface analyze, konfigurasi, troubleshooting, monitoring, membuat backup & disaster recovery plan, serta melakukan Research and Development internal perusahaan.
+
+Job Desc :
+
+* Design Secure Infrastructure and create budget estimation.
+* Manage Server infrastructure and server security.
+* Create Pipeline Continuous Integration/Continuous Deployment.
+* Manage Domain, Web Hosting and Domain configuration.
+* Monitoring Server (Resources) make sure that every server that used for project and for internal portal is optimally used to serve the user.
+* Support in project regarding to the infrastructure or server setup and configuration.
+* Setup and configure Google Workspace account email regarding to onboarding and offboarding Resources process.
+
+### IT Support & Network Engineer - PT. Unicorn Tosan Perkasa, Bandung
+
+#### September 2019 - Mei 2022
 
 **Job Description:**
 
