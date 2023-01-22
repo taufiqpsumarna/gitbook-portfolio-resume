@@ -2,8 +2,9 @@
 
 ## DevOps Engineer - PT. IDStar Cipta Teknologi
 
-* Project Sistem OCR machine learningProject Sistem OCR machine learning Jul 2022 - Sekarang
-* Project Internal Apps IDStar IDSWPProject Internal Apps IDStar IDSWP Jun 2022 - Sekarang
+* DevOps New Generation Banking System - KB Bukopin Project Jan 2023 - Sekarang
+* Project Sistem OCR machine learning - EZextract Project Jul 2022 - Sekarang
+* Project Internal Apps IDStar IDSWP Project Internal Apps IDStar IDSWP Jun 2022 - Sekarang
 * Manage Google Workspace Admin Jan 2021 - Sekarang
 * Amazon Cloudwatch EC2 Resource Monitoring Okt 2022 - Okt 2022
 * IDStar Internet Bandwidth QoS Optimization Okt 2022 - Okt 2022
@@ -14,7 +15,7 @@
 * Migrasi EC2 dan S3 Instance Cross AWS Account Jun 2022 - Jun 2022
 * Migrasi Server OCR Server Machine GCP Jun 2022 - Jun 2022
 
-## Bootcamp: Sekolah DevOps Cilsy
+## Bootcamp: Sekolah DevOps Cilsy Batch 14
 
 * Design & Build Infrastructure on Premises for Web Apps Jan 2022 - Jan 2022
 * Design & Build Infrastructure Cloud-Based Feb 2022 - Feb 2022
