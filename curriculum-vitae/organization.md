@@ -1,6 +1,6 @@
 # 🧭 Organization
 
-### Ketua Divisi IT Security - Computer Security Research Group - STMIK AMIK BANDUNG
+### Anggota Divisi IT Security - Computer Security Research Group - STMIK AMIK BANDUNG
 
 #### Januari 2022- Sekarang
 
