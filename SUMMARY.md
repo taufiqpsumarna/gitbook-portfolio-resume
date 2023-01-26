@@ -5,12 +5,12 @@
 ## 🎨 Showcase
 
 * [📑 Portofolio](showcase/portofolio.md)
-* [🪖 Project](showcase/project.md)
 * [🖼 Gallery](showcase/gallery.md)
 
 ## 🔰 Curriculum Vitae
 
 * [👷♂ Experience](curriculum-vitae/experience.md)
+* [🪖 Project](curriculum-vitae/project.md)
 * [🎓 Education](curriculum-vitae/education.md)
 * [🧭 Organization](curriculum-vitae/organization.md)
 * [🏋♂ Training](curriculum-vitae/training.md)
