@@ -24,9 +24,13 @@ Saya sangat senang jika diberikan kepercayaan untuk membantu dan menyelesaikan m
 * [Facebook](https://www.facebook.com/taufiqpsumarna)
 * [Instagram](https://www.instagram.com/taufiq\_14s/)
 
-Ada pertanyaan atau ingin bekerja sama ? Silahkan kontak saya di [linkedin](https://www.linkedin.com/in/taufiqpsumarna/)😁
+#### Ada pertanyaan atau ingin bekerja sama ? Silahkan dm via [linkedin](https://www.linkedin.com/in/taufiqpsumarna/)😁
 
 ## **Menu Navigasi**
+
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
 
 {% content-ref url="broken-reference" %}
 [Broken link](broken-reference)
