@@ -1,5 +1,43 @@
 # 📑 Portofolio
 
+## Grafana Resource Monitoring, Logging, And Alerting System
+
+<div>
+
+<figure><img src="../.gitbook/assets/Screenshot_20230215_091339.png" alt=""><figcaption><p>Node Exporter</p></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Screenshot_20230215_092421.png" alt=""><figcaption><p>Mattermost Grabot Plugin</p></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Screenshot_20230215_091100.png" alt=""><figcaption><p>Cadvisor</p></figcaption></figure>
+
+</div>
+
+Create Grafana Dashboard Resource and Logging monitoring, Grafana, Cadvisor, Promtail, Loki, Node\_Exporter and Prometheus are all software tools used for monitoring and visualizing system metrics and logs and for alerting system we use mattermost with grabot (Grafana Bot) integration
+
+Tools: AWS, EC2, Grafana, Cadvisor Prometheus, Loki, Promtail, Node\_Exporter, Mattermost
+
+## DevOps New Generation Banking System - KB Bukopin Project
+
+<figure><img src="../.gitbook/assets/Screenshot_20230215_085149.png" alt=""><figcaption><p>CI / CD Pipeline</p></figcaption></figure>
+
+DevOps Engineer works with developers and the IT staff to oversee the code releases. DevOps understands the Software Development Lifecycle and understand automation tools for developing digital pipelines (CI/ CD pipelines), In charge for:
+
+* Design, implementing and discus about CI/CD pipelines with developer team and project lead.
+* Implementing mobile development CI/CD pipelines.
+* Implementing web development CI/CD pipelines.
+* Research and Development Gitlab CI/CD Pipelines.
+* Design server architecture and specification.
+* Configure Gitlab Repository Server on-premise.
+* Configure Gitlab Runner Server on-premise.
+* Configure SonarQube Server on-premise.
+* Configure Integration Between Gitlab and SonarQube.
+
+Tools: Docker, Gitlab, Gitlab CI/CD, Gitlab Container Registry, Gitlab Runner, SonarQube, Fastlane, Ubuntu 22.04 LTS
+
 ## Integrasi Sonarqube Static Code Analyst dengan Github Action
 
 ![Sonarqube Project Dashboard](<../.gitbook/assets/image (4).png>)
