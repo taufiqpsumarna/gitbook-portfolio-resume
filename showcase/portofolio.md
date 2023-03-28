@@ -20,7 +20,7 @@ Create Grafana Dashboard Resource and Logging monitoring, Grafana, Cadvisor, Pro
 
 Tools: AWS, EC2, Grafana, Cadvisor Prometheus, Loki, Promtail, Node\_Exporter, Mattermost
 
-## DevOps New Generation Banking System - KB Bukopin Project
+## CI/CD Workflow - Flutter Apps and fastlane deploy
 
 <figure><img src="../.gitbook/assets/Screenshot_20230215_085149.png" alt=""><figcaption><p>CI / CD Pipeline</p></figcaption></figure>
 
