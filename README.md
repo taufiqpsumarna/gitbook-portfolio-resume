@@ -10,11 +10,9 @@ layout: landing
 
 ## Hi, Perkenalkan nama saya Taufiq 👋
 
-Sekarang ini, saya berkarier sebagai seorang DevOps Engineer yang terlibat dalam bidang RnD (Riset dan Pengembangan) dan Delivery di bidang IT. Saya membantu perusahaan dalam menerapkan kultur DevOps yang efektif serta mengaplikasikan berbagai tools dan infrastruktur DevOps untuk meningkatkan proses pengembangan aplikasi perusahaan dan proyek. Saya juga bertanggung jawab dalam menyusun desain infrastruktur cloud, menerapkan pendekatan "pushing security to the left", melakukan benchmarking, pentesting, konfigurasi, troubleshooting, monitoring, membuat backup dan rencana disaster recovery. Selain itu, saya juga melakukan riset dan pengembangan internal perusahaan.
+Saat ini, saya berkarier sebagai seorang DevOps Engineer yang terlibat dalam bidang RnD (Riset dan Pengembangan) dan Delivery di bidang IT. Saya membantu perusahaan dalam menerapkan kultur DevOps yang efektif serta mengaplikasikan berbagai tools dan infrastruktur DevOps untuk meningkatkan proses pengembangan aplikasi perusahaan dan proyek. Saya juga bertanggung jawab dalam menyusun desain infrastruktur cloud, menerapkan pendekatan "pushing security to the left", melakukan benchmarking, pentesting, konfigurasi, troubleshooting, monitoring, membuat backup dan rencana disaster recovery. Selain itu, saya juga melakukan riset dan pengembangan internal perusahaan.
 
 Saya sangat senang jika diberikan kepercayaan untuk membantu dan menyelesaikan masalah yang dihadapi oleh perusahaan. Saat ini, saya juga aktif sebagai mahasiswa di STMIK AMIK BANDUNG program studi S1 Teknik Informatika kelas karyawan. Saya sangat menyukai tantangan dan masalah karena saya percaya hal ini dapat membantu dalam perkembangan karir saya. Saya sangat bersemangat dalam belajar hal baru karena saya telah menemukan passion saya di dunia IT. Saat ini, saya sedang fokus mempelajari lebih dalam tentang Computer networking, Cyber security, Cloud computing, dan DevOps.
-
-"Keep Calm And Do Something Great" - Taufiq.
 
 ### Informasi Kontak
 
@@ -27,6 +25,10 @@ Saya sangat senang jika diberikan kepercayaan untuk membantu dan menyelesaikan m
 #### Ada pertanyaan atau ingin bekerja sama ? Silahkan dm via [linkedin](https://www.linkedin.com/in/taufiqpsumarna/)😁
 
 ## **Menu Navigasi**
+
+{% content-ref url="http://localhost:5000/s/SpMyIYj3xSld4DjpBYFF/" %}
+[Catatan Taufiq](http://localhost:5000/s/SpMyIYj3xSld4DjpBYFF/)
+{% endcontent-ref %}
 
 {% content-ref url="broken-reference" %}
 [Broken link](broken-reference)
