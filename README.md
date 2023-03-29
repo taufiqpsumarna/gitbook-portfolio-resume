@@ -8,6 +8,19 @@ layout: landing
 
 ![](<.gitbook/assets/Keep Calm Do Something Great\_Center.png>)
 
+```bash
+#!/bin/bash
+checkUser= /bin/bash cat /etc/passwd | grep you
+userName= You
+
+if command [!$checkUser | grep $userName] then
+  echo "👋 Hello there! I'm Taufiq"
+  echo "I'm a DevOps Engineer with IT Support, Sysadmin, and Network Engineering Backgrounds"
+else 
+  echo "Hi $userName maybe we already know each other!"
+fi
+```
+
 ## Hi, Perkenalkan nama saya Taufiq 👋
 
 Saat ini, saya berkarier sebagai seorang DevOps Engineer yang terlibat dalam bidang RnD (Riset dan Pengembangan) dan Delivery di bidang IT. Saya membantu perusahaan dalam menerapkan kultur DevOps yang efektif serta mengaplikasikan berbagai tools dan infrastruktur DevOps untuk meningkatkan proses pengembangan aplikasi perusahaan dan proyek. Saya juga bertanggung jawab dalam menyusun desain infrastruktur cloud, menerapkan pendekatan "pushing security to the left", melakukan benchmarking, pentesting, konfigurasi, troubleshooting, monitoring, membuat backup dan rencana disaster recovery. Selain itu, saya juga melakukan riset dan pengembangan internal perusahaan.
