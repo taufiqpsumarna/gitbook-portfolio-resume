@@ -1,5 +1,23 @@
 # 📑 Portofolio
 
+## Gitlab CI/CD Pipeline For React Application
+
+<div>
+
+<figure><img src="../.gitbook/assets/Diagram Mini Project_ Gitlab CI_CD Pipeline For React Application-Pipeline.drawio2.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Diagram Mini Project_ Gitlab CI_CD Pipeline For React Application-Workflow.drawio.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+Pada proyek ini, kita akan membagi aplikasi ke dalam dua lingkungan server, yaitu Staging dan Production. Lingkungan Staging digunakan untuk menguji aplikasi sebelum di-deploy ke lingkungan Production. Lingkungan Production digunakan untuk menyediakan aplikasi yang sudah siap digunakan oleh pengguna.
+
+{% hint style="info" %}
+Gitlab Repository: [https://gitlab.com/medium-taufiqpsumarna/todo\_react\_apps](https://gitlab.com/medium-taufiqpsumarna/todo\_react\_apps)
+{% endhint %}
+
 ## Grafana Resource Monitoring, Logging, And Alerting System
 
 <div>
@@ -54,7 +72,7 @@ SonarQube adalah alat peninjauan kode otomatis untuk mendeteksi bug, kerentanan,
 
 ![Jenkins Pipeline Status](<../.gitbook/assets/image (9).png>)
 
-![Console Output](../.gitbook/assets/image.png)
+![Console Output](<../.gitbook/assets/image (13).png>)
 
 Pada pipeline jenkins kali ini kita akan melakukan desain pipeline dengan integrasi github webhook sehingga ketika ada perubahan code secara otomatis jenkins akan melakukan build image, tagging dan kemudian image tersebut akan kita upload kedalam Docker registry setelah itu image terbaru juga akan dijalankan kedalam remote Docker server.
 
