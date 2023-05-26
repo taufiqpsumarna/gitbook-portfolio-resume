@@ -6,7 +6,11 @@ layout: landing
 
 
 
-![](<.gitbook/assets/Keep Calm Do Something Great\_Center.png>)
+<div align="center">
+
+<img src=".gitbook/assets/Keep Calm Do Something Great_Center.png" alt="">
+
+</div>
 
 ```bash
 #!/bin/bash
@@ -41,10 +45,6 @@ Saya sangat senang jika diberikan kepercayaan untuk membantu dan menyelesaikan m
 
 {% content-ref url="http://localhost:5000/s/SpMyIYj3xSld4DjpBYFF/" %}
 [Catatan Taufiq](http://localhost:5000/s/SpMyIYj3xSld4DjpBYFF/)
-{% endcontent-ref %}
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="broken-reference" %}
